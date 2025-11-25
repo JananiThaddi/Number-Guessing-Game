@@ -1,7 +1,7 @@
 import random
 
 def number_guessing_game():
-    print("Welcome to the Number Guessing Game!")
+    print("Welcome to the Number Guessing  Game!")
     number = random.randint(1, 100)
     attempts = 0
 
@@ -22,6 +22,7 @@ def number_guessing_game():
 
 if __name__ == "__main__":
     number_guessing_game()
+
 
 
 
